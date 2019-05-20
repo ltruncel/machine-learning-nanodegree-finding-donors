@@ -1,3 +1,4 @@
+In this project I used supervised learning to find donors for a charity. Following are instructions from Udacity regarding this project.
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
